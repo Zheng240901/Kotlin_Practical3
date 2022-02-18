@@ -7,6 +7,7 @@ import com.example.practical3.databinding.ActivitySubBinding
 class SubActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivitySubBinding
+    val testing2 = ""
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
