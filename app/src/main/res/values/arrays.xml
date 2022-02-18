@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="programs">
+        <item>RIT</item>
+        <item>RST</item>
+        <item>RSF</item>
+    </string-array>
+
+</resources>
